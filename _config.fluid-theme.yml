@@ -960,7 +960,7 @@ about:
   banner_img: https://t.mwm.moe/fj/
   banner_img_height: 60
   banner_mask_alpha: 0.3
-  avatar: https://s2.loli.net/2024/02/18/WLq75gZiBRQvAhz.webp
+  avatar: /img/avatar.png
   name: "【夜风】NightWind"
   intro: "园果不留双子莺，金瞳亦识夜风清"
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
@@ -1008,12 +1008,12 @@ links:
   # 友链的成员项
   # Member item of page
   items:
-    - {
-      title: "Zobyic Realms",
-      intro: "Zobyic Realms官方网站",
-      link: "https://www.zobyic.top/",
-      avatar: "https://s2.loli.net/2024/02/24/oQxmGi46EyOd9Wg.webp"
-    }
+    # - {
+    #   title: "Zobyic Realms",
+    #   intro: "Zobyic Realms官方网站",
+    #   link: "https://www.zobyic.top/",
+    #   avatar: "https://s2.loli.net/2024/02/24/oQxmGi46EyOd9Wg.webp"
+    # }
     - {
       title: "雪碧博客",
       intro: "一个菜鸟的博客",
