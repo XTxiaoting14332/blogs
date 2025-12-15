@@ -465,7 +465,7 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: https://t.mwm.moe/fj/
+  banner_img: https://tu.ltyuanfang.cn/api/fengjing.php
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
@@ -900,7 +900,7 @@ discuss:
 # Archive Page
 #---------------------------
 archive:
-  banner_img: https://t.mwm.moe/fj/
+  banner_img: https://tu.ltyuanfang.cn/api/fengjing.php
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -911,7 +911,7 @@ archive:
 #---------------------------
 category:
   enable: true
-  banner_img: https://t.mwm.moe/fj/
+  banner_img: https://tu.ltyuanfang.cn/api/fengjing.php
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -940,7 +940,7 @@ category:
 #---------------------------
 tag:
   enable: true
-  banner_img: https://t.mwm.moe/fj/
+  banner_img: https://tu.ltyuanfang.cn/api/fengjing.php
   banner_img_height: 80
   banner_mask_alpha: 0.3
   tagcloud:
@@ -957,7 +957,7 @@ tag:
 #---------------------------
 about:
   enable: true
-  banner_img: https://t.mwm.moe/fj/
+  banner_img: https://tu.ltyuanfang.cn/api/fengjing.php
   banner_img_height: 60
   banner_mask_alpha: 0.3
   avatar: /img/avatar.png
@@ -988,7 +988,7 @@ page:
 #---------------------------
 page404:
   enable: true
-  banner_img: https://t.mwm.moe/fj/
+  banner_img: https://tu.ltyuanfang.cn/api/fengjing.php
   banner_img_height: 85
   banner_mask_alpha: 0.3
   # 重定向到首页的延迟(毫秒)
@@ -1002,7 +1002,7 @@ page404:
 #---------------------------
 links:
   enable: true
-  banner_img: https://t.mwm.moe/fj/
+  banner_img: https://tu.ltyuanfang.cn/api/fengjing.php
   banner_img_height: 60
   banner_mask_alpha: 0.3
   # 友链的成员项
@@ -1024,12 +1024,12 @@ links:
       title: "MC_DALIU",
       intro: "一个懒人的博客",
       link: "https://mc-daliu.github.io",
-      avatar: "https://github.com/MC-DALIU/MC-DALIU/blob/main/%E6%97%A0%E6%A0%87%E9%A2%98.png"
+      avatar: "http://q2.qlogo.cn/headimg_dl?dst_uin=2263157943&spec=100"
     }
 
   # 当成员头像加载失败时，替换为指定图片
   # When the member avatar fails to load, replace the specified image
-  onerror_avatar: /img/avatar.png
+  onerror_avatar: /img/loading.gif
 
   # 友链下方自定义区域，支持 HTML，可插入例如申请友链的文字
   # Custom content at the bottom of the links
