@@ -1008,12 +1008,12 @@ links:
   # 友链的成员项
   # Member item of page
   items:
-    # - {
-    #   title: "Zobyic Realms",
-    #   intro: "Zobyic Realms官方网站",
-    #   link: "https://www.zobyic.top/",
-    #   avatar: "https://s2.loli.net/2024/02/24/oQxmGi46EyOd9Wg.webp"
-    # }
+    - {
+      title: "NoneBot WebUI",
+      intro: "新一代NoneBot Web管理界面",
+      link: "https://webui.nbgui.top/",
+      avatar: "/img/nbwebui.png"
+    }
     - {
       title: "雪碧博客",
       intro: "一个菜鸟的博客",
