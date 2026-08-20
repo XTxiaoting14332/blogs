@@ -960,7 +960,7 @@ about:
   banner_img: https://tu.ltyuanfang.cn/api/fengjing.php
   banner_img_height: 60
   banner_mask_alpha: 0.3
-  avatar: http://q2.qlogo.cn/headimg_dl?dst_uin=2125714976&spec=100
+  avatar: https://picui.ogmua.cn/s1/2026/08/20/6a86cfe080826.webp
   name: "【夜风】N1ghtW1nd"
   intro: "园果不留双子莺，金瞳亦识夜风清"
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
@@ -1031,6 +1031,12 @@ links:
       intro: "柒拾兆字节的博客",
       link: "https://7omb2006.github.io",
       avatar: "http://q2.qlogo.cn/headimg_dl?dst_uin=3311482378&spec=100"
+    }
+    - {
+      title: "storm_1614",
+      intro: "颂古风文也别惘，知路偏曲难为圆",
+      link: "https://storm1614.top",
+      avatar: "https://storm1614.top/img/avatar_hu1035b0617e2a1fc81f93a2449fb745a3_83342_300x0_resize_box_3.png "
     }
 
   # 当成员头像加载失败时，替换为指定图片
