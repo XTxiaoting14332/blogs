@@ -426,10 +426,10 @@ footer:
     <a href="https://ipw.cn/ssl/?site=blog.zobyic.top" title="本站支持SSL安全访问"><img alt="本站支持SSL安全访问" src="https://static.ipw.cn/icon/ssl-s1.svg"></a></br>
     <a href="https://icp.gov.moe/?keyword=20240150" target="_blank">萌ICP备20240150号</a><br>
     <a>Deployed by</a><a href="https://www.netlify.com/">
-      <img src="/img/netlify.svg" style="width: 5%; height: 5%;" alt="Go to the Netlify website"> 
+      <img src="/img/netlify.svg" style="width: 5%; height: 5%;" alt="Go to the Netlify website">
     </a>
     <a href="https://www.cloudflare.com/">
-      <img src="/img/cf.svg" style="width: 5%; height: 5%;" alt="Go to the Cloudflare website"> 
+      <img src="/img/cf.svg" style="width: 5%; height: 5%;" alt="Go to the Cloudflare website">
     </a>
   '
 
@@ -1018,13 +1018,19 @@ links:
       title: "雪碧博客",
       intro: "一个菜鸟的博客",
       link: "https://blog.myxuebi.top/",
-      avatar: "https://s11.ax1x.com/2024/02/15/pFGlL0x.jpg"
+      avatar: "http://q2.qlogo.cn/headimg_dl?dst_uin=1651930562&spec=100"
     }
     - {
       title: "MC_DALIU",
       intro: "一个懒人的博客",
       link: "https://mc-daliu.github.io",
       avatar: "http://q2.qlogo.cn/headimg_dl?dst_uin=2263157943&spec=100"
+    }
+    - {
+      title: "柒拾兆字节",
+      intro: "柒拾兆字节的博客",
+      link: "https://7omb2006.github.io",
+      avatar: "http://q2.qlogo.cn/headimg_dl?dst_uin=3311482378&spec=100"
     }
 
   # 当成员头像加载失败时，替换为指定图片
