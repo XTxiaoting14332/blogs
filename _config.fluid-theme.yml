@@ -420,10 +420,6 @@ footer:
   # 页脚第一行文字的 HTML，建议保留 Fluid 的链接，用于向更多人推广本主题
   # HTML of the first line of the footer, it is recommended to keep the Fluid link to promote this theme to more people
   content: '
-    <a href="https://ipw.cn/ipv6webcheck/?site=blog.zobyic.top" title="本站支持IPv6访问">
-      <img alt="本站支持IPv6访问" src="https://static.ipw.cn/icon/ipv6-s1.svg">
-    </a>
-    <a href="https://ipw.cn/ssl/?site=blog.zobyic.top" title="本站支持SSL安全访问"><img alt="本站支持SSL安全访问" src="https://static.ipw.cn/icon/ssl-s1.svg"></a></br>
     <a href="https://icp.gov.moe/?keyword=20240150" target="_blank">萌ICP备20240150号</a><br>
     <a>Deployed by</a><a href="https://www.netlify.com/">
       <img src="/img/netlify.svg" style="width: 5%; height: 5%;" alt="Go to the Netlify website">
@@ -960,7 +956,7 @@ about:
   banner_img: https://tu.ltyuanfang.cn/api/fengjing.php
   banner_img_height: 60
   banner_mask_alpha: 0.3
-  avatar: https://picui.ogmua.cn/s1/2026/08/20/6a86cfe080826.webp
+  avatar: /img/avatar.jpg
   name: "【夜风】N1ghtW1nd"
   intro: "园果不留双子莺，金瞳亦识夜风清"
   # 更多图标可从 https://hexo.fluid-dev.com/docs/icon/ 查找，`class` 代表图标的 css class，添加 `qrcode` 后，图标不再是链接而是悬浮二维码
@@ -1037,6 +1033,12 @@ links:
       intro: "颂古风文也别惘，知路偏曲难为圆",
       link: "https://storm1614.top",
       avatar: "https://storm1614.top/img/head.png"
+    }
+    - {
+      title: "墨安槿幻的幻想之境",
+      intro: "欢迎光临我的幻想窝 ╰(*°▽°*)╯",
+      link: "https://moanjinhuan.top/",
+      avatar: "https://moanjinhuan.top/images/avatar.jpg"
     }
 
   # 当成员头像加载失败时，替换为指定图片
